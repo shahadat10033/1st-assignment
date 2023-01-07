@@ -36,3 +36,35 @@
   margin-top: 24px;
 }
 /*Header section end*/
+
+/*success-section start*/
+.success-section {
+  margin: 200px 300px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.success-story h3 {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin-bottom: 24px;
+}
+.success-story article {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-bottom: 20px;
+}
+.success-story ul li {
+  list-style: none;
+  display: flex;
+}
+.fa-check {
+  color: greenyellow;
+  margin-right: 5px;
+}
+.success-story {
+  margin-left: 100px;
+}
+/*success-section end*/
