@@ -96,3 +96,29 @@
   text-align: justify;
 }
 /*about-me -section end*/
+
+/*planning section start*/
+.my-plan {
+  margin: 200px 185px;
+}
+.plan-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin: 50px;
+  text-align: center;
+}
+.plannings {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 100px;
+}
+.skill {
+  text-align: center;
+}
+.skill h4,
+p {
+  padding-top: 10px;
+}
+
+/*planning section end*/
