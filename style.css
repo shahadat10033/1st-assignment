@@ -122,3 +122,26 @@ p {
 }
 
 /*planning section end*/
+
+/*gradiant section start*/
+
+.gradiant-section {
+  width: 1400px;
+  height: 300px;
+  background-image: url("images/watch.png"), url("images/gradient1.png");
+  background-repeat: no-repeat;
+  margin: 100px auto;
+  background-size: 100% 100%;
+  background-blend-mode: multiply;
+}
+.gradiant-text h3 {
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
+}
+.gradiant-text {
+  width: 460px;
+  padding: 60px;
+}
+
+/*gradiant section end*/
