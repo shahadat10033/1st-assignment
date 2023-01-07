@@ -68,3 +68,31 @@
   margin-left: 100px;
 }
 /*success-section end*/
+
+/*about-me -section start*/
+.about-me {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 100px 200px;
+}
+.image-gallery img {
+  width: 150px;
+}
+.myself {
+  margin-right: 200px;
+}
+.myself h2 {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin-bottom: 24px;
+}
+.myself p {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+/*about-me -section end*/
